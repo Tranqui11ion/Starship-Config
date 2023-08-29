@@ -1,3 +1,4 @@
 # Starship-Config
 Starship Config
-![WindowsTerminal_5kgugzeGvz](https://github.com/Tranqui11ion/Starship-Config/assets/75787562/4a1a7643-8438-49f2-bca4-1aedcd9acf8e)
+
+![WindowsTerminal_PA8QlOqoRe](https://github.com/Tranqui11ion/Starship-Config/assets/75787562/ba02b0a8-cd3e-4c77-a214-45fddee0734e)
